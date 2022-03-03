@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "travelgram-54da5": {
+      "hosting": {
+        "travelgram": [
+          "travelgram-54da5"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "travelgram-54da5"
+  }
+}
